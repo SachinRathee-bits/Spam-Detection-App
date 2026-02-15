@@ -5,7 +5,7 @@ The objective of this App is to classify emails as **Spam** (1) or **Not Spam / 
 
 ## b. Dataset Description
 * **Dataset Name:** Spambase Data Set
-* **Source:** UCI Machine Learning Repository.
+* **Source:** UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/94/spambase)
 * **Type:** Binary Classification
 * **Instances:** 4601.
 * **Features:** 57.
@@ -44,7 +44,7 @@ Observations on the performance of each model on the Spambase dataset:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SachinRathee-bits/Spam-Detection-App.git](https://github.com/SachinRathee-bits/Spam-Detection-App.git)
+    git clone https://github.com/SachinRathee-bits/Spam-Detection-App.git
     cd Spam-Detection-App
     ```
 2.  **Install dependencies:**
